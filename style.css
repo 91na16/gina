@@ -10,6 +10,15 @@
 body{
     font-family: 'Itim', cursive;
     font-size: 18px;
+    margin:0px 25px;
+    padding:0px;
+    text-align:center;
+}
+#layout{
+  margin-left:auto;
+  margin-right:auto;
+  width:780px;
+  text-align:left;
 }
 a{
     text-decoration: none;
